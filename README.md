@@ -24,6 +24,7 @@
 <a href="https://twitter.com/@dag_mawi111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dag_mawi111" height="30" width="40" /></a>
 <a href="https://kaggle.com/dagmawiii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dagmawiii03" height="30" width="40" /></a>
 <a href="https://medium.com/dagmawi.yoha03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dagmawi.yoha03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dagmawi-yohannesb36488236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="dagmawi-yohannes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
